@@ -1,0 +1,9 @@
+.DS_Store
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.jar
+/evidencias/
+/docs/Guia_de_estudio_SIFAC_Entrega1.docx
+~$*
